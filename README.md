@@ -1,3 +1,4 @@
+این پروژه به طور کامل از پروژه‌ی https://github.com/masterking32/MasterHttpRelayVPN نوشته شده.
 # راهنمای کامل راه‌اندازی پروژه روی Vercel
 
 ## 1) پیش‌نیازها
