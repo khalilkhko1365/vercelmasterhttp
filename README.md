@@ -25,8 +25,8 @@ npm -v
 پروژه را clone کنید (یا ZIP دانلود کنید):
 
 ```bash
-git clone https://github.com/masterking32/MasterHttpRelayVPN.git
-cd MasterHttpRelayVPN
+git clone https://github.com/block-p/vercelmasterhttp
+cd vercelmasterhttp
 ```
 
 ## 3) نصب Vercel CLI
