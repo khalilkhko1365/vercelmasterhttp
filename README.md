@@ -26,7 +26,7 @@ npm -v
 پروژه را clone کنید (یا ZIP دانلود کنید):
 
 ```bash
-git clone https://github.com/block-p/vercelmasterhttp
+git clone https://github.com/block-p/vercelmasterhttp.git
 cd vercelmasterhttp
 ```
 
