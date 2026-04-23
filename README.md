@@ -44,6 +44,7 @@ npm i -g vercel --registry="https://mirror-npm.runflare.com"
 
 ## 4) لاگین و دیپلوی روی Vercel
 
+وارد پوشه vercel شوید.
 ترتیب درست دستورات:
 
 1. اول لاگین:
